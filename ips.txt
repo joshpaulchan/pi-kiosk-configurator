@@ -1,0 +1,17 @@
+sign-in left
+
+IP: 172.17.144.27
+Subnet mask : 255.255.255.128
+Default gateway: 172.17.144.1
+
+Preferred DNS: 128.6.238.13
+Alternate DNS: 8.8.8.8
+
+sign-in right
+
+IP: 172.17.144.24
+Subnet mask: 255.255.255.128
+Default gateway: 172.17.144.1
+
+Preferred DNS: 128.6.238.13
+Alternate DNS: 8.8.8.8
